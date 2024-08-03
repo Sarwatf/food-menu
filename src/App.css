@@ -4,8 +4,25 @@ body{
 
 }
 .Nav-bar{
-    justify-content: center;
-    text-align: center;
+    justify-content: center; 
+     text-align: center; 
     display: flex;
+    background-color: rgb(236, 231, 224);
+  
+
+    
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    margin-left:800px;
+    
+}
+li{
+    margin: 20px;
+   
     
 }
