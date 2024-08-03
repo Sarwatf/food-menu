@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 0;
+
+}
+.Nav-bar{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    
+}
